@@ -21,5 +21,5 @@ console.log(typeof 2+"1"); //21  number1
 console.log(typeof "2"+1); //21   string1
 console.log(typeof 3+2+"1");//51  number21
 console.log(typeof "3"+2+1);//321  string21
-console.log(typeof 3+"2"+1);//321 number21
+console.log(typeof 3+"3"+1);//321 number31
 console.log(3+"2"+1);
